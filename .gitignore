@@ -1,0 +1,10 @@
+
+# Игнорируем сертификаты и шрифты
+cert.html
+fonts/
+img/
+certificates/
+style.css
+certificate_counter.json
+secret.key
+weasy_format.py
