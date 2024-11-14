@@ -1,5 +1,5 @@
 
-# Игнорируем сертификаты и шрифты
+# пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 cert.html
 fonts/
 img/
@@ -8,3 +8,4 @@ style.css
 certificate_counter.json
 secret.key
 weasy_format.py
+decoder.py
